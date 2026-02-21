@@ -18,13 +18,13 @@ Key Insights/ Result:
 *60% Less Marketing Spend Logic:
   Bank's total database has 5,000 customers. If we call everyone,we pay for all 5,000 phone calls - 100% marketing spend.
   Through SQL analysis, we found that the "High-Value" group (Income>$110k + Graduate) only consists of 2,000 people.
-  The Math: 2000 / 5000 = 40%
+  The Math: 2000 / 5000 = 40%.
   Conclusion: Hence we are only calling 40% of the people, i.e,"High-Value" group, saving 60% on marketing (money & time). 
 -------------------------------------------------------------------------------------------------------------------
 *80% Conversion Volume Logic:
-  No. of Customers who actually took loan in the past = 480
+  No. of Customers who actually took loan in the past = 480.
   Through SQL filtering, we found that out of those 480 "Yes" responders, 384 of them were in our "High-Value" group.
-  The Math: 384 / 480 = 80%
+  The Math: 384 / 480 = 80%.
   Conclusion: Even though we ignored 60% of the customers, we still retain 80% of the actual profit.
 ----------------------------------------------------------------------------------------------------------------------
 
